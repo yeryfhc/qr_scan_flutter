@@ -6,6 +6,7 @@ import 'package:qr_reader/provider/scan_list_provider.dart';
 import 'package:qr_reader/provider/ui_provider.dart';
 import 'package:qr_reader/widget/all_widgets.dart';
 
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
 
@@ -17,7 +18,8 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-      child: Scaffold(       
+      child: Scaffold(   
+       
         appBar: AppBar(
           elevation: 0,
           title: const Text(
@@ -35,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 icon: const Icon(Icons.delete_forever))
           ],
         ),
-        body: _HomePageBody(),
+        body: Stack(children: [const BackGraund(), _HomePageBody()]),
         bottomNavigationBar: const CustonNavigatorBar(),
         floatingActionButton: const ScanButton(),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
