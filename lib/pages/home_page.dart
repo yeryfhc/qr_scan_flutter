@@ -18,29 +18,45 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-      child: Scaffold(   
-       
-        appBar: AppBar(
-          elevation: 0,
-          title: const Text(
-            'Read QR',
-            style: TextStyle(fontSize: 30, fontStyle: FontStyle.normal),
+      child: Container(
+        decoration: const BoxDecoration(
+            gradient: LinearGradient(
+                begin: Alignment.bottomLeft,
+                end: Alignment.bottomLeft,
+                stops: [
+              0.2,
+              0.8
+            ],
+                colors: [
+              Color.fromARGB(15, 243, 155, 155),
+              Color.fromARGB(0, 243, 245, 245)
+            ])),
+      
+        child: Scaffold(   
+          backgroundColor: Colors.transparent,
+          appBar: AppBar(
+            elevation: 0,
+            title: const Text(
+              'Read QR',
+              style: TextStyle(fontSize: 30, fontStyle: FontStyle.normal),
+            ),
+            centerTitle: true,
+            backgroundColor: Colors.deepPurple,
+            actions: [
+              IconButton(
+                  onPressed: () {
+                    Provider.of<ScanListProvider>(context, listen: false)
+                        .borrarTodos();
+                  },
+                  icon: const Icon(Icons.delete_forever))
+            ],
           ),
-          centerTitle: true,
-          backgroundColor: Colors.deepPurple,
-          actions: [
-            IconButton(
-                onPressed: () {
-                  Provider.of<ScanListProvider>(context, listen: false)
-                      .borrarTodos();
-                },
-                icon: const Icon(Icons.delete_forever))
-          ],
+          body: Stack(children: [const BackGraund(), _HomePageBody()]),
+          bottomNavigationBar: const CustonNavigatorBar(),
+          floatingActionButton: const ScanButton(),
+          floatingActionButtonLocation:
+              FloatingActionButtonLocation.centerDocked,
         ),
-        body: Stack(children: [const BackGraund(), _HomePageBody()]),
-        bottomNavigationBar: const CustonNavigatorBar(),
-        floatingActionButton: const ScanButton(),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       ),
     );
   }
