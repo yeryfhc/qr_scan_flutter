@@ -12,96 +12,133 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/yeryfhc/Desktop/qr scanner final/qr_reader/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/yeryfhc/Desktop/qr scanner final/qr_reader/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.CAMERA" />
-15-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
-15-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
+15-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+15-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
 16
 17    <uses-feature android:name="android.hardware.camera" />
-17-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-60
-17-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:19-57
+17-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-60
+17-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:19-57
 18
-19    <uses-permission android:name="android.permission.FLASHLIGHT" />
-19-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-69
-19-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-66
-20
-21    <application
-22        android:name="android.app.Application"
-23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-23-->[androidx.core:core:1.6.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
-24        android:debuggable="true"
-25        android:icon="@mipmap/ic_launcher"
-26        android:label="qr_reader"
-27        android:largeHeap="true"
-27-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
-28        android:theme="@style/Theme.AppCompat.NoActionBar" >
-28-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-59
-29        <activity
-30            android:name="com.example.qr_reader.MainActivity"
-31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-32            android:exported="true"
-33            android:hardwareAccelerated="true"
-34            android:launchMode="singleTop"
-35            android:theme="@style/LaunchTheme"
-36            android:windowSoftInputMode="adjustResize" >
-37
-38            <!--
-39                 Specifies an Android theme to apply to this Activity as soon as
-40                 the Android process has started. This theme is visible to the user
-41                 while the Flutter UI initializes. After that, this theme continues
-42                 to determine the Window background behind the Flutter UI.
-43            -->
-44            <meta-data
-45                android:name="io.flutter.embedding.android.NormalTheme"
-46                android:resource="@style/NormalTheme" />
-47
-48            <intent-filter>
-49                <action android:name="android.intent.action.MAIN" />
-50
-51                <category android:name="android.intent.category.LAUNCHER" />
-52            </intent-filter>
-53        </activity>
-54        <!--
-55             Don't delete the meta-data below.
-56             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-57        -->
-58        <meta-data
-59            android:name="flutterEmbedding"
-60            android:value="2" />
-61
-62        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
-62-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-91
-62-->[:flutter_barcode_scanner] /Users/yeryfhc/Desktop/qr scanner final/qr_reader/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:19-88
-63
-64        <uses-library
-64-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
-65            android:name="androidx.window.extensions"
-65-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
-66            android:required="false" />
-66-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
-67        <uses-library
-67-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
-68            android:name="androidx.window.sidecar"
-68-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
-69            android:required="false" />
-69-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
-70
-71        <activity
-71-->[com.google.android.gms:play-services-base:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/be2893cfe613ec180e65ae7f6f2e6367/jetified-play-services-base-17.4.0/AndroidManifest.xml:23:9-26:75
-72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-72-->[com.google.android.gms:play-services-base:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/be2893cfe613ec180e65ae7f6f2e6367/jetified-play-services-base-17.4.0/AndroidManifest.xml:24:13-79
-73            android:exported="false"
-73-->[com.google.android.gms:play-services-base:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/be2893cfe613ec180e65ae7f6f2e6367/jetified-play-services-base-17.4.0/AndroidManifest.xml:25:13-37
-74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-74-->[com.google.android.gms:play-services-base:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/be2893cfe613ec180e65ae7f6f2e6367/jetified-play-services-base-17.4.0/AndroidManifest.xml:26:13-72
-75
-76        <meta-data
-76-->[com.google.android.gms:play-services-basement:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/398f53a7f9527407294478b1e6516b93/jetified-play-services-basement-17.4.0/AndroidManifest.xml:23:9-25:69
-77            android:name="com.google.android.gms.version"
-77-->[com.google.android.gms:play-services-basement:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/398f53a7f9527407294478b1e6516b93/jetified-play-services-basement-17.4.0/AndroidManifest.xml:24:13-58
-78            android:value="@integer/google_play_services_version" />
-78-->[com.google.android.gms:play-services-basement:17.4.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/398f53a7f9527407294478b1e6516b93/jetified-play-services-basement-17.4.0/AndroidManifest.xml:25:13-66
-79    </application>
-80
-81</manifest>
+19    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- Include required permissions for Google Maps API to run. -->
+19-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-69
+19-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-66
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:22-76
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+25
+26    <queries>
+26-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+27
+28        <!-- Needs to be explicitly declared on Android R+ -->
+29        <package android:name="com.google.android.apps.maps" />
+29-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+29-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+30    </queries>
+31
+32    <application
+33        android:name="android.app.Application"
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.6.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+37        android:label="qr_reader"
+38        android:largeHeap="true"
+38-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+39        android:theme="@style/Theme.AppCompat.NoActionBar" >
+39-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-59
+40        <meta-data
+41            android:name="com.google.android.geo.API_KEY"
+42            android:value="AIzaSyCNp3TOCAN4XC8eg_FfWNSTeA2bt3OPBD0" />
+43
+44        <activity
+45            android:name="com.example.qr_reader.MainActivity"
+46            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47            android:exported="true"
+48            android:hardwareAccelerated="true"
+49            android:launchMode="singleTop"
+50            android:theme="@style/LaunchTheme"
+51            android:windowSoftInputMode="adjustResize" >
+52
+53            <!--
+54                 Specifies an Android theme to apply to this Activity as soon as
+55                 the Android process has started. This theme is visible to the user
+56                 while the Flutter UI initializes. After that, this theme continues
+57                 to determine the Window background behind the Flutter UI.
+58            -->
+59            <meta-data
+60                android:name="io.flutter.embedding.android.NormalTheme"
+61                android:resource="@style/NormalTheme" />
+62
+63            <intent-filter>
+64                <action android:name="android.intent.action.MAIN" />
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+67            </intent-filter>
+68        </activity>
+69        <!--
+70             Don't delete the meta-data below.
+71             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+72        -->
+73        <meta-data
+74            android:name="flutterEmbedding"
+75            android:value="2" />
+76
+77        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
+77-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-91
+77-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:19-88
+78        <activity
+78-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+79            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+79-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+80            android:exported="false"
+80-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+81            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+81-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+82
+83        <uses-library
+83-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+84            android:name="androidx.window.extensions"
+84-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+85            android:required="false" />
+85-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+86        <uses-library
+86-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+87            android:name="androidx.window.sidecar"
+87-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+88            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+88-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+89        <uses-library
+89-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+90            android:name="org.apache.http.legacy"
+90-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+91            android:required="false" />
+91-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+97
+98        <meta-data
+98-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+99            android:name="com.google.android.gms.version"
+99-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+100            android:value="@integer/google_play_services_version" />
+100-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+101    </application>
+102
+103</manifest>

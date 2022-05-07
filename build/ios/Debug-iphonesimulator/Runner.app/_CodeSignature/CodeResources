@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		u+dOaIbxNkZOO0S6A/T3iDtQgvc=
+		dxxEK8ALAzc7IJKzp/GkNVPZs/E=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BejD/ZMjMejkjEzLSJ8BN8h+v1Y=
+		kyewrxiChnqKMMRpL4LDOQWl7Rg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		74tw6GCi3OiYn6Thm1s9zO4Szd8=
+		zTTSY7bo8ijSVeulLxnwcSJIS9A=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		HRtwbERxziKkOWi1VypvaW3k8fQ=
+		ovHjiWBW0Ev6Osx3ht1oJJaHRIc=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<data>
-		3nEpaXNT7xDq8/+T9wpa8vph+Tg=
+		zKXXEZW8iiw6srSnsA+ODuRI2rY=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
 		<data>
@@ -1302,7 +1302,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fziEA8TvxD6tirtPv+m4GuhiLCMbWfxp6YxWhp17eVk=
+			otHi9oYYpuOmZynB95H8TVdZev6retAuVFGPtXmpXk4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1316,7 +1316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P93GkiTj/SMmgX4s2uzrRch+gCx82TeIiZSbsNV0I1E=
+			kZJf1DTeY4LsYmW4C3IepY/3rkKNQh666aIQiaa0C5g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -1358,7 +1358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uZ1Dvq6C/pPEYTbgFqvbpEJjGAQDH9kGNofOIhrXxzY=
+			t0kzFpQUSvggmBwqSh6d4VK1Fcayvnwqqhz3vIUEoyY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1400,7 +1400,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G31lZgY/zuaXpQegfIQmrZimWmh5hEuxkKZDzgVwegs=
+			iKCE0LNocrOAFuCemtYN0gk3lgdCYu0KYqoyKKyKSNE=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1624,7 +1624,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qdYSsMtdIBRl9GwW7fHdh9TtMpIS9ug2rvGLNKR79DU=
+			T4CxTsxZCCEk/c7FqQ2pQaIVFCkceHwhrvadnHSR8YI=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
