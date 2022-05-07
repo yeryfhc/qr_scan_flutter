@@ -20,7 +20,7 @@ class _MapaScreenState extends State<MapaScreen> {
         ModalRoute.of(context)?.settings.arguments as ScanModel;
     final CameraPosition puntoInicial = CameraPosition(
       target: scan.getLatLng(),
-      bearing: 10,
+      bearing: 15,
       zoom: 18,
     );
     // marcadores
