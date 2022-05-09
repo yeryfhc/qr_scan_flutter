@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => UiProvider()),
       ],
       child: MaterialApp(
+          
           debugShowCheckedModeBanner: false,
           title: 'QR Reader',
           initialRoute: 'home',

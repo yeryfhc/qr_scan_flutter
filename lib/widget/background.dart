@@ -10,12 +10,17 @@ class BackGraund extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
           gradient: LinearGradient(
-              begin: Alignment.topCenter,
-              end: Alignment.center,
+              begin: Alignment.bottomLeft,
+              end: Alignment(
+                0.3,
+                0.5,
+              ),
+              stops: [0.4, 8.3],
               colors: [
-            Color.fromARGB(15, 210, 130, 130),
-            Color.fromARGB(0, 78, 255, 255)
-          ])),
+                Color.fromARGB(255, 255, 255, 255),
+                Color.fromARGB(255, 215, 193, 252)
+              ],
+              tileMode: TileMode.mirror)),
     );
   }
 }

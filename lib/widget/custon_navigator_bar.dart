@@ -12,6 +12,7 @@ class CustonNavigatorBar extends StatelessWidget {
     final currentIndex = uiProvider.selectedMenuOpt;
 
     return BottomNavigationBar(
+        backgroundColor: const Color.fromARGB(255, 236, 229, 229),
         onTap: (int i) => uiProvider.selectedMenuOpt = i,
         elevation: 0,
         currentIndex: currentIndex,
