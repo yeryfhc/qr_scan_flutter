@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "D:\\vs code projetcs\\qr_scan_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\062c584e7105f32bea72d749c12db8a1\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

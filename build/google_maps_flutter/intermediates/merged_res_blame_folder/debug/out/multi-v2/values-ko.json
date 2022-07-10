@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "D:\\vs code projetcs\\qr_scan_flutter\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
             "map": [
                 {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/res/values-ko/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "116",
-                        "endOffsets": "311"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "950",
-                        "endColumns": "120",
-                        "endOffsets": "1066"
-                    }
-                },
-                {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-ko/values-ko.xml",
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/res/values-ko/values.xml",
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\65c8b9154009d1931a3db50d7627d9e4\\jetified-play-services-basement-18.0.0\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "116",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "950",
+                        "endColumns": "120",
+                        "endOffsets": "1066"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\642cc9e2632e586d1058ed231591ead4\\jetified-play-services-base-18.0.1\\res\\values-ko\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -57,27 +57,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/google_maps_flutter/intermediates/res/merged/debug/values-ko/values-ko.xml",
+            "outputFile": "D:\\vs code projetcs\\qr_scan_flutter\\build\\google_maps_flutter\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
             "map": [
                 {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/res/values-ko/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "116",
-                        "endOffsets": "311"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "950",
-                        "endColumns": "120",
-                        "endOffsets": "1066"
-                    }
-                },
-                {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-ko/values-ko.xml",
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,7 +77,24 @@
                     }
                 },
                 {
-                    "source": "/Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/res/values-ko/values.xml",
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\65c8b9154009d1931a3db50d7627d9e4\\jetified-play-services-basement-18.0.0\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "116",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "950",
+                        "endColumns": "120",
+                        "endOffsets": "1066"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yeryfhc\\.gradle\\caches\\transforms-2\\files-2.1\\642cc9e2632e586d1058ed231591ead4\\jetified-play-services-base-18.0.1\\res\\values-ko\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

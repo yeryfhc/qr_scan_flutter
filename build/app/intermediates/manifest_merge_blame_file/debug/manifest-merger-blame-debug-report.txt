@@ -12,50 +12,50 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->D:\vs code projetcs\qr_scan_flutter\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->D:\vs code projetcs\qr_scan_flutter\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.CAMERA" />
-15-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
-15-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
+15-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+15-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
 16
 17    <uses-feature android:name="android.hardware.camera" />
-17-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-60
-17-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:11:19-57
+17-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+17-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:11:19-57
 18
 19    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- Include required permissions for Google Maps API to run. -->
-19-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-69
-19-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-66
+19-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-69
+19-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-66
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
-20-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:22-76
+20-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:22-76
 21
 22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+22-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
 23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+23-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
 24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+24-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
 25
 26    <queries>
-26-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+26-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
 27
 28        <!-- Needs to be explicitly declared on Android R+ -->
 29        <package android:name="com.google.android.apps.maps" />
-29-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
-29-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+29-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+29-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
 30    </queries>
 31
 32    <application
 33        android:name="android.app.Application"
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-34-->[androidx.core:core:1.6.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
+34-->[androidx.core:core:1.6.0] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:18-86
 35        android:debuggable="true"
 36        android:icon="@mipmap/ic_launcher"
 37        android:label="qr_reader"
 38        android:largeHeap="true"
-38-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+38-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
 39        android:theme="@style/Theme.AppCompat.NoActionBar" >
-39-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-59
+39-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-59
 40        <meta-data
 41            android:name="com.google.android.geo.API_KEY"
 42            android:value="AIzaSyCNp3TOCAN4XC8eg_FfWNSTeA2bt3OPBD0" />
@@ -94,51 +94,51 @@
 75            android:value="2" />
 76
 77        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
-77-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-91
-77-->[:flutter_barcode_scanner] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/flutter_barcode_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:18:19-88
+77-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-91
+77-->[:flutter_barcode_scanner] D:\vs code projetcs\qr_scan_flutter\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:19-88
 78        <activity
-78-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+78-->[:url_launcher_android] D:\vs code projetcs\qr_scan_flutter\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
 79            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-79-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+79-->[:url_launcher_android] D:\vs code projetcs\qr_scan_flutter\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
 80            android:exported="false"
-80-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+80-->[:url_launcher_android] D:\vs code projetcs\qr_scan_flutter\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
 81            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-81-->[:url_launcher_android] /Volumes/yeryfhc ext/Vs code project/qr_scan_flutter/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+81-->[:url_launcher_android] D:\vs code projetcs\qr_scan_flutter\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
 82
 83        <uses-library
-83-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+83-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 84            android:name="androidx.window.extensions"
-84-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+84-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 85            android:required="false" />
-85-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+85-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 86        <uses-library
-86-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+86-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 87            android:name="androidx.window.sidecar"
-87-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+87-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 88            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
-88-->[androidx.window:window:1.0.0-beta04] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+88-->[androidx.window:window:1.0.0-beta04] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 89        <uses-library
-89-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+89-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
 90            android:name="org.apache.http.legacy"
-90-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+90-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
 91            android:required="false" />
-91-->[com.google.android.gms:play-services-maps:18.0.2] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/7d064776558e2f29807c8a762199a631/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+91-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\7d064776558e2f29807c8a762199a631\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
 92
 93        <activity
-93-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+93-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\642cc9e2632e586d1058ed231591ead4\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-94-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+94-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\642cc9e2632e586d1058ed231591ead4\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 95            android:exported="false"
-95-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+95-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\642cc9e2632e586d1058ed231591ead4\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-96-->[com.google.android.gms:play-services-base:18.0.1] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/642cc9e2632e586d1058ed231591ead4/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+96-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\642cc9e2632e586d1058ed231591ead4\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 97
 98        <meta-data
-98-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+98-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
 99            android:name="com.google.android.gms.version"
-99-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+99-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
 100            android:value="@integer/google_play_services_version" />
-100-->[com.google.android.gms:play-services-basement:18.0.0] /Users/yeryfhc/.gradle/caches/transforms-2/files-2.1/65c8b9154009d1931a3db50d7627d9e4/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+100-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\yeryfhc\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
 101    </application>
 102
 103</manifest>
